@@ -38,6 +38,22 @@ A mobile version of the application. Adapted from the system from JAVA to Typesc
 
 ## Version 1.5.0 (21 Nov)
 * Finalised the project by adding references to documentation
+## Screenshots of the interface
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-24 at 11 36 14 AM" src="https://github.com/user-attachments/assets/6af6194a-7acb-47aa-96e0-d45bb88e4746" />
+
+<img width="540" height="1344" alt="WhatsApp Image 2026-04-24 at 11 36 13 AM" src="https://github.com/user-attachments/assets/b3ee1675-ec78-4918-9f80-a4a2b3b8b082" />
+
+<img width="540" height="1448" alt="WhatsApp Image 2026-04-24 at 11 36 13 AM (1)" src="https://github.com/user-attachments/assets/835e1095-eaf3-4eca-a1ff-e8dfa04ef68c" />
+
+<img width="540" height="1285" alt="WhatsApp Image 2026-04-24 at 11 36 13 AM (2)" src="https://github.com/user-attachments/assets/91f9acc2-02ad-4a5c-9e30-1d44fc9e4c06" />
+
+<img width="540" height="1448" alt="WhatsApp Image 2026-04-24 at 11 36 13 AM (3)" src="https://github.com/user-attachments/assets/d3590bb4-62c2-437c-8588-3bc28b9f350b" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-24 at 11 36 12 AM" src="https://github.com/user-attachments/assets/5a052751-566d-4844-8c8a-e7c1b91cbbbc" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-24 at 11 36 12 AM (1)" src="https://github.com/user-attachments/assets/6c1a360f-adb4-43a9-b50d-163f2a35d303" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-24 at 11 36 12 AM (2)" src="https://github.com/user-attachments/assets/d442cb52-aa56-4960-84d3-29c1fe8b02b2" />
 
 # Video Submission
 Here us a YouTube video detailing the app in action.
